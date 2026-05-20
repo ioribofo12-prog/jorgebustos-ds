@@ -52,9 +52,9 @@ Classification and prediction models developed with Scikit-learn.
 
 ---
 
-
+<p align="center">
 ## ⚡ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgebustos-ds&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ioribofo12-prog&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebustos-ds&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioribofo12-prog&layout=compact&theme=tokyonight"/>
