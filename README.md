@@ -1,6 +1,7 @@
 # jorgebustos-ds
 Data Science &amp; Machine Learning Portfolio
 # Hi, I'm Jorge Bustos 👋
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer" />
 
 ### Data Science & Machine Learning Student
 
@@ -19,7 +20,13 @@ Passionate about Data Science, Machine Learning, Python and AI.
 - GitHub
 - Jupyter Notebook
 - HTML & CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 📊 Featured Projects
@@ -37,7 +44,7 @@ Classification and prediction models developed with Scikit-learn.
 
 ## 🌐 Portfolio
 
-https://ioribofo12-prog.github.io/
+[Visit My Portfolio](https://ioribofo12-prog.github.io/)
 
 ---
 
