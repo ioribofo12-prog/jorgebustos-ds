@@ -52,6 +52,11 @@ Classification and prediction models developed with Scikit-learn.
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ioribofo12-prog&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioribofo12-prog&layout=compact&theme=tokyonight)
+
+
 ## ⚡ GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgebustos-ds&show_icons=true&theme=tokyonight)
