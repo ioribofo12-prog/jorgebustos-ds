@@ -11,15 +11,6 @@ Passionate about Data Science, Machine Learning, Python and AI.
 
 ## 🚀 Technologies & Tools
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-learn
-- Git
-- GitHub
-- Jupyter Notebook
-- HTML & CSS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,6 +18,13 @@ Passionate about Data Science, Machine Learning, Python and AI.
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- SQL
+- NumPy
+- Git
+- GitHub
+- Jupyter Notebook
+- HTML & CSS
 ---
 
 ## 📊 Featured Projects
